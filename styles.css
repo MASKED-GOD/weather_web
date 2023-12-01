@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #84E6F8;
+}
+
+.container {
+    background-color: #F7CACD;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.converter {
+    margin-top: 20px;
+}
+
+label {
+    font-size: 18px;
+    color: #64113F;
+}
+
+input {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #DE4D86;
+    border-radius: 5px;
+}
+
+#result {
+    font-size: 18px;
+    color: #64113F;
+    margin-top: 10px;
+}
